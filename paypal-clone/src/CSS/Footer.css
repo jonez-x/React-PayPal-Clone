@@ -1,0 +1,11 @@
+.FooterContainer{
+   position: fixed;
+   background-color: #F7F9FA;
+   
+}
+
+.Footer{
+   display: flex;
+   justify-content: space-between;
+}
+
